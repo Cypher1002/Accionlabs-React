@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "react",
+			"path": ".."
+		},
+		{
+			"name": "01-starting-setup",
+			"path": "../../../Downloads/01-starting-setup/01-starting-setup"
+		}
+	],
+	"settings": {}
+}
